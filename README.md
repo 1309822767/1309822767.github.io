@@ -1,7 +1,7 @@
 # VBlog
 ![](https://img.shields.io/badge/vue-2.5.2-brightgreen.svg) ![](https://img.shields.io/badge/element--ui-2.3.5-brightgreen.svg) ![](https://img.shields.io/badge/vant-1.1.2-brightgreen.svg)
 # 捐赠：扫红包
-<img src='http://data.pandorahiro.cn:3000/?/donate.jpg' />
+<img src='http://nas.pandorahiro.cn:34567/A:/博客源码/收款码/donate.jpg' />
 ## 目录
 - [简介](#简介)
 - [演示地址](#演示地址)
